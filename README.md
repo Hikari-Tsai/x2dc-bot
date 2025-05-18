@@ -5,7 +5,7 @@
 [https://www.youtube.com/watch?v=vmzRbvomzl4](https://www.youtube.com/watch?v=vmzRbvomzl4)
 
 ## 前置條件
-1. 事先註冊X Develop Free版本帳號，並進入Projects & App 取得 Bearer Token [https://www.youtube.com/watch?v=vmzRbvomzl4](https://www.youtube.com/watch?v=vmzRbvomzl4)
+1. 事先註冊X Develop Free版本帳號，並進入Projects & App 取得 Bearer Token[連結](https://developer.x.com/) 
 2. 進入Discord取得目標頻道的Channel
 3. 事先取得欲同步的X帳號名稱
 
