@@ -2,10 +2,10 @@
 這是一個將X推文同步回DC伺服器的小工具，使用免費的API服務即可實作，使用Google App Script自動觸發Pooling去輪詢X是否有更新資料，若有則POST到DC的Webhook
 
 ## 教學影片
-(TBD)
+[連結](https://developer.x.com/)
 
 ## 前置條件
-1. 事先註冊X Develop Free版本帳號，並進入Projects & App 取得 Bearer Token [連結](https://developer.x.com/)
+1. 事先註冊X Develop Free版本帳號，並進入Projects & App 取得 Bearer Token [https://www.youtube.com/watch?v=vmzRbvomzl4](https://www.youtube.com/watch?v=vmzRbvomzl4)
 2. 進入Discord取得目標頻道的Channel
 3. 事先取得欲同步的X帳號名稱
 
